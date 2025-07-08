@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<services>
+    <cloudstreamsCollectionKeys serviceName="WmCloudStreams.RestVS">
+        <servicesKeys>
+            <keyDetails collectionKey="ccs:Auto_SAPHana_v2_basic_query_SO_1015_ccs" connectorServiceName="ccs:Auto_SAPHana_v2_basic_query_SO_1015_ccs"/>
+        </servicesKeys>
+    </cloudstreamsCollectionKeys>
+</services>
